@@ -701,81 +701,9 @@ The system supports 5 user roles:
 | **Conversation Context** | Remembers last 10 exchanges |
 | **Data Scale** | Current: 685 nodes, Target: 100K+ |
 
----
 
-## 🤝 Contributing
 
-This is an academic project, but suggestions are welcome!
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📝 License
-
-This project is for educational purposes as part of DAMG 7374 coursework at Northeastern University.
-
----
-
-## 👤 Author
-
-**Manish Kumar Kondoju**  
-MS Information Systems, Northeastern University  
-Course: DAMG 7374 - Knowledge Graphs with GenAI/GraphDB
-
-**Contact:**
-- GitHub: [@ManishKondoju](https://github.com/ManishKondoju)
-- LinkedIn: [Manish Kumar Kondoju](https://linkedin.com/in/manishkondoju)
-
----
-
-## 🙏 Acknowledgments
-
-- Research paper: **CrimeKGQA** by Kuok et al.
-- Neo4j community for excellent graph database tools
-- Streamlit for the amazing web framework
-- OpenRouter for LLM API access
-- Professor and classmates at Northeastern University
-
----
-
-## 📚 References
-
-1. Kuok, K.L., Liu, H.H., Lo, W.W. (2024). "CrimeKGQA: A Crime Investigation System Based on Knowledge Graph RAG"
-2. Neo4j Documentation: https://neo4j.com/docs/
-3. Streamlit Documentation: https://docs.streamlit.io/
-4. LangChain Documentation: https://python.langchain.com/
-
----
-
-## ⚡ Quick Start (TL;DR)
-
-```bash
-# Clone repo
-git clone https://github.com/ManishKondoju/CrimeInvestigationGraph.git
-cd CrimeInvestigationGraph
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Set up .env file with your Neo4j credentials
-
-# Load data
-python load_data.py
-
-# Run app
-streamlit run app.py
-
-# Open browser: http://localhost:8501
-```
-
----
-
-<div align="center">
 
 **Made with ❤️ for better crime investigation through AI and graph technology**
 
