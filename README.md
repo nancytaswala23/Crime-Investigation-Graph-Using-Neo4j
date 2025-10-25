@@ -1,4 +1,4 @@
-# 🔍 CrimeGraphRAG - AI-Powered Crime Investigation System (CUURENTLY WORKING ON)
+# 🔍 CrimeGraphRAG - AI-Powered Crime Investigation System (CURRENTLY WORKING ON)
 
 <div align="center">
 
